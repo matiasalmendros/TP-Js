@@ -1,6 +1,3 @@
-# Adjusting the file format to .md (Markdown) and saving it
-
-readme_md_content = """
 # Práctico Front End - JavaScript
 
 Este proyecto fue desarrollado como parte del curso "Desarrollo de Software" en la **Universidad Tecnológica Nacional FRM**. El objetivo principal es aprender y aplicar los fundamentos de JavaScript y las tecnologías de front-end a través de una serie de ejercicios prácticos.
